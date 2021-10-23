@@ -1,0 +1,25 @@
+{
+  "name": "@ermilburn02/maths",
+  "version": "1.0.0",
+  "description": "Personal maths library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ERmilburn02/maths.js.git"
+  },
+  "author": "ermilburn02 <ermilburn02@outlook.com> (https://www.ermilburn02.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ERmilburn02/maths.js/issues"
+  },
+  "homepage": "https://github.com/ERmilburn02/maths.js#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.4",
+    "typescript": "^4.4.4"
+  }
+}
